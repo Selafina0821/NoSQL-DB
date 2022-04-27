@@ -1,4 +1,4 @@
-schema={
+schema={ haha
    "title": "temi host",
    "description": "real-time information about Temi",
    "type": "object",
